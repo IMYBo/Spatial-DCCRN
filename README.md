@@ -1,1 +1,1 @@
-# Spatial-DCCRN-
+# S-DCCRN
